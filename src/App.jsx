@@ -7,7 +7,7 @@ import { sampleUsers } from './data/users.js';
 export default function App() {
   return (
     <div className="app-shell">
-      <Header title="Open Source Studio" subtitle="Week 13 · React Mini Dashboard" />
+      <Header title="My React Dashboard(22500616 장진)" subtitle="Week 13 · React Mini Dashboard" />
       <main className="dashboard">
         <section className="hero">
           <p className="hero-kicker">OPEN SOURCE STUDIO / WEEK 13</p>
